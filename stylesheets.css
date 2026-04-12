@@ -13,7 +13,7 @@ body {
 }
 
 main {
-  border-radius: .9375rem;
+  border-radius: 0.9375rem;
   max-width: 20.4375rem;
   width: 100%;
   height: auto;
@@ -37,7 +37,7 @@ h1 {
 
 p {
   color: #969fad;
-  font-size: .875rem;
+  font-size: 0.875rem;
   margin-bottom: 1rem;
   line-height: 1.5;
   max-width: 21.9375rem;
@@ -57,7 +57,7 @@ p {
   font-weight: bold;
   width: 2.625rem;
   height: 2.625rem;
-  padding: 1rem .5rem;
+  padding: 1rem 0.5rem;
   border-radius: 1.3125rem;
   border: none;
   display: flex;
@@ -84,9 +84,9 @@ button:active {
 .submit {
   background-color: #fc7614;
   color: #131518;
-  font-size: .875rem;
+  font-size: 0.875rem;
   font-weight: bold;
-  letter-spacing: .1169rem;
+  letter-spacing: 0.1169rem;
   border-radius: 1.4063rem;
   border: none;
   width: 17.4375rem;
@@ -100,18 +100,17 @@ button:active {
     max-width: 25.75rem;
     height: auto;
   }
-  
+
   h1 {
     font-size: 1.75rem;
   }
-  
+
   .teste {
-    
-    margin: .1563rem .4063rem;
+    margin: 0.1563rem 0.4063rem;
   }
 
   p {
-    font-size: .9375rem;
+    font-size: 0.9375rem;
   }
 
   .btn-numbers {
@@ -124,7 +123,7 @@ button:active {
 
   .submit {
     width: 21.9375rem;
-    letter-spacing: .0106rem;
+    letter-spacing: 0.0106rem;
   }
 
   .favorited img {
@@ -132,7 +131,7 @@ button:active {
     height: 3rem;
   }
 
-    .margin {
-    margin: .4063rem .4063rem;
+  .margin {
+    margin: 0.4063rem 0.4063rem;
   }
 }
